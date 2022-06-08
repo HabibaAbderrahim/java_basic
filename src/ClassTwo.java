@@ -21,5 +21,36 @@ public class ClassTwo {
         }else {
             System.out.println("a != 10 ");
         }
+
+        System.out.println("**********************LOGICAL OPERATIONS****************************");
+        //and : &&      or: ||
+        //check more than one condition using same if
+        //[1..100]
+        if((a>=1) && (a<=100)){
+            System.out.println(" Great !Number " +a+ " is between [1..100]");
+        }
+
+        System.out.println("**********************SWITCH STATEMENT****************************");
+        //multiple expression to check
+        //byte , short , char , int ...
+        char grade='A' ;
+        switch (grade){
+
+            case 'A' :
+                System.out.println("VERY GOOD");
+                break;
+            case 'B' :
+                System.out.println("GOOD");
+                break;
+            case 'C' :
+                System.out.println("HARD LUCK");
+                break;
+                //when all condition are not meet
+            default:
+                System.out.println("");
+                break;
+
+        }
+
     }
 }
