@@ -67,7 +67,7 @@ public class ClassOne {
         //increment your value then gives you the result
         int a = 20;
         System.out.println("PRE INCRIMENT " + ++a);
-        System.out.println("The value of a changed");
+        System.out.println("The value of  var a changed");
 
 
 
