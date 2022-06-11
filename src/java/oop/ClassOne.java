@@ -1,6 +1,4 @@
-package oop;
-
-import java.util.Arrays;
+package java.oop;
 
 public class ClassOne {
 
