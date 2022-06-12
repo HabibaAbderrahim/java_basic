@@ -1,9 +1,7 @@
-package java.notions;
-
 public class StudentStat {
 
     String name ;
-    int age ;
+    static int  age ;
     //static variable for all
     static int studentNumb = 0 ;
 
@@ -29,8 +27,9 @@ public class StudentStat {
         return age;
     }
 
-    public void setAge(int age) {
-        this.age = age;
+    public static void setAge(int age) {
+        //not using this.age but class name
+        StudentStat.age = age;
     }
 
 

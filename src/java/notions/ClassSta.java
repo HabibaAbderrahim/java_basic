@@ -1,9 +1,8 @@
-package java.notions;
-
 public class ClassSta {
 
     //static Method
     public static String printMsg (String msg){
+
         return msg ;
 
     }
