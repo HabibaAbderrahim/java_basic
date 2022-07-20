@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface BankIn {
+public interface BankIn {
+    int getBank();
 }
