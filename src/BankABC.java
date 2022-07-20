@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class BankABC {
+public class BankABC extends BankAb{
+    @Override
+    int getBankName() {
+        return 0;
+    }
 }
