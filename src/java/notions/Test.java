@@ -1,3 +1,7 @@
+package java.notions;
+
+import java.notions.ClassFinal;
+
 public class Test {
     public static void main(String[] args) {
         // TRY TO INTIALIZE FINALE VARIABLE

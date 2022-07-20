@@ -1,3 +1,5 @@
+package java.notions;
+
 public class StudentStat {
 
     String name ;
@@ -5,7 +7,7 @@ public class StudentStat {
     //static variable for all
     static int studentNumb = 0 ;
 
-    StudentStat(){
+    public StudentStat(){
         //incriment the value for each initialisation of student
         studentNumb++ ;
     }
