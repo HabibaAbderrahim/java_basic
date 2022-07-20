@@ -1,3 +1,5 @@
+package java.basics;
+
 import java.util.Arrays;
 
 public class ClassArray {
