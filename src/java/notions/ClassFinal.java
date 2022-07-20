@@ -1,3 +1,5 @@
+package java.notions;
+
 import java.ClassFinalInh;
 
 // extends ClassFinalInh  : we can't be subclass of final class
