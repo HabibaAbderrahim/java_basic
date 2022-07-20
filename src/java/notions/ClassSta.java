@@ -1,3 +1,5 @@
+package java.notions;
+
 public class ClassSta {
 
     //static Method
