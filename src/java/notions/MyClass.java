@@ -1,3 +1,5 @@
+package java.notions;
+
 import access.modifier.test.Student;
 
 import java.notions.ClassSta;
