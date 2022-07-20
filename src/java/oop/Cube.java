@@ -1,4 +1,4 @@
-package oop;
+package java.oop;
 
 public class Cube {
 
